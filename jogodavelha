@@ -1,0 +1,10 @@
+ng g c new-component --module app  @Marcia
+jogo da velha
+
+ng new jogo-da-velha
+cd jogo-da-velha
+ng serve
+
+
+em outro teminal
+
